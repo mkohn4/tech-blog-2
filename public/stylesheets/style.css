@@ -176,3 +176,20 @@ footer {
   padding: 1%;
   font-size: 110%;
 }
+
+/*added CSS styles -- START*/
+
+/*edit post page -- START*/
+.edit-post-form > div {
+  display: flex;
+  flex-direction: column;
+}
+/*edit post page -- END*/
+
+/*Dashboard page -- start*/
+article.post .title {
+  display: flex;
+  flex-direction: column;
+}
+/*Dashboard page -- end*/
+
