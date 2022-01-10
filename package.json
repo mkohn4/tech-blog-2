@@ -1,5 +1,5 @@
 {
-  "name": "just-tech-news",
+  "name": "tech-blog-2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkohn4/just-tech-news.git"
+    "url": "git+https://github.com/mkohn4/tech-blog-2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mkohn4/just-tech-news/issues"
+    "url": "https://github.com/mkohn4/tech-blog-2/issues"
   },
-  "homepage": "https://github.com/mkohn4/just-tech-news#readme",
+  "homepage": "https://github.com/mkohn4/tech-blog-2#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
