@@ -196,11 +196,24 @@ article.post .title {
   display: flex;
   flex-direction: column;
 }
-article.post span {
+article.post span.view-article {
+  padding: 5px;
+  border: 1px grey solid;
+  margin: 10px 20px;
+  font-style: normal;
+  color: black;
+}
+main section+section article.post span,
+main ol.post-list span.view-article {
   width: 200px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  font-style: italic !important;
+  color: grey !important;
+  border: 0px !important;
+  padding: 0px !important;
+  margin: 0px !important;
 }
 /*Dashboard page -- end*/
 
