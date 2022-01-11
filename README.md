@@ -13,6 +13,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![image of application](https://i.ibb.co/41Zx1Tj/tech-blog.png)
+
 ## Description
 
 This is a basic website setup to allow for users to create a user and login, in order to demonstrate password hashing and user authentication, for creating, editing, deleting blog posts.  Unauthenticated users also have the ability to view posts, but the bulk of the functionality is behind a withAuth function for any server-side CRUD operations to occur.  This includes adding, editing, deleting posts, adding comments, and upvoting
