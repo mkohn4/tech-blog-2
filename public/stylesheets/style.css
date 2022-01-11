@@ -184,12 +184,23 @@ footer {
   display: flex;
   flex-direction: column;
 }
+.edit-post-form div p {
+  padding: 5px;
+  border: 1px grey solid;
+  margin: 10px 20px;
+}
 /*edit post page -- END*/
 
 /*Dashboard page -- start*/
 article.post .title {
   display: flex;
   flex-direction: column;
+}
+article.post span {
+  width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 /*Dashboard page -- end*/
 
